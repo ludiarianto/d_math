@@ -63,15 +63,6 @@ a {
   background-color: #239b76;
 }
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
-}
-
 .btn {
   padding: 12px 24px;
   color: white;
@@ -119,10 +110,11 @@ header {
   display: block;
   float: left;
   transition: all 0.5s;
+  font-color: #000000
 }
 
 .header-right a:hover {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(250, 235, 215, 1 );
 }
 
 .lesson-wrapper {
