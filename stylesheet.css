@@ -114,7 +114,7 @@ header {
 }
 
 .header-right a:hover {
-  background-color: rgba(250, 235, 215, 1 );
+  background-color: rgba(250, 235, 215, 0 );
 }
 
 .lesson-wrapper {
